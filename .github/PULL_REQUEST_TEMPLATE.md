@@ -1,8 +1,6 @@
 ---
 
-labels:
-
-- pr
+labels: pr
 
 ---
 
